@@ -1,0 +1,6 @@
+@inproceedings{REPO030,
+    author = "Liu, Jiaqi and Xie, Guoyang and Li, Xinpeng and Wang, Jinbao and Liu, Yong and Wang, Chengjie and Zheng, Feng and others",
+    booktitle = "Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track",
+    title = "{Real3D-AD: A Dataset of Point Cloud Anomaly Detection}",
+    year = "2023"
+}
